@@ -1,0 +1,23 @@
+{
+  "name": "14feb-2",
+  "version": "1.0.0",
+  "description": "14FEB-2",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyzpractice999/14FEB-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/xyzpractice999/14FEB-2/issues"
+  },
+  "homepage": "https://github.com/xyzpractice999/14FEB-2#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.2.3"
+  }
+}
