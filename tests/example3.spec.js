@@ -9,7 +9,8 @@ test('has title', async ({ page }) => {
 });
 
 test('get started link', async ({ page }) => {
-  await page.goto('https://playwright');
+
+  await page.goto('https://playwright.dev/testing-library/');
 
   // Click the get started link.
   await page.getByRole('link', { name: 'Get started' }).click();
